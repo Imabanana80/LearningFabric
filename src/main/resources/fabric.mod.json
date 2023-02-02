@@ -4,16 +4,17 @@
   "version": "${version}",
 
   "name": "Learning Fabric",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "description": "Me tryna learn fabric modding",
   "authors": [
     "Imabanana80"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://github.com/Imabanana80/",
+    "sources": "https://github.com/Imabanana80/LearningFabric",
+    "issues": "https://github.com/Imabanana80/LearningFabric/issues"
   },
 
-  "license": "GPLv3",
+  "license": "MIT License",
 
   "environment": "*",
   "entrypoints": {
