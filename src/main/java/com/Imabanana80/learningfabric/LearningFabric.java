@@ -12,6 +12,5 @@ public class LearningFabric implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		ModItems.registerModItems();
-		LOGGER.debug("Hello World");
 	}
 }
