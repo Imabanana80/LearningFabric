@@ -9,7 +9,7 @@ import net.minecraft.util.registry.Registry;
 public class ModItems {
 
     public static final Item BANANA = registerItem("banana",
-            new Item(new FabricItemSettings().group(ModItemGroup.BANANAITEMS)));
+            new Item(new FabricItemSettings().group(ModItemGroup.BANANAITEMS).food(ModFoodComponents.BANANA)));
 
 
     private static Item registerItem(String name, Item item) {
